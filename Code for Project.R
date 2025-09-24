@@ -4,3 +4,4 @@ data(cars)
 glimpse(cars)
 my_lm <- lm(speed~dist,data=cars) #I'm building my first model
 summary(my_lm)
+# Test
